@@ -59,4 +59,5 @@ typings/
 
 *~
 .idea/
-
+*.png
+*.pdf

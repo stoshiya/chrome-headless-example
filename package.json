@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/stoshiya/chrome-headless-example#readme",
   "dependencies": {
-    "chrome-remote-interface": "^0.24.2"
+    "puppeteer": "^0.9.0"
   }
 }
